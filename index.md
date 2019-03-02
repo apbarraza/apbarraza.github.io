@@ -78,6 +78,9 @@ My career ambition is to thrive as an Applied Research Scientist working on cutt
                             <b>Emphasis on:</b> 
                             Business Intelligence, Machine Learning, Recommendation Systems, Information Adaptation, Distributed Systems, Innovation Management, Enterprise Architecture, Project Management, Mobile Computing, Multi-Agent Systems.   
                         </p>
+                        <p> 
+                        My master's dissertation can be found <a href="http://pegasus.javeriana.edu.co/~CIS1010IS01/Documentos/memorias_ingles/Vizier_Memories_v3.2.pdf">here.</a>
+                         </p>
                     </div>
                 </li>
                 <li class="timeline-item">
