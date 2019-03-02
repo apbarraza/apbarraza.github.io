@@ -5,7 +5,7 @@ sidebar_link: false
 date: ''
 ---
 
-# Bio
+## About Me
 
 
 I am a PhD Research student in the field of computer science, studying at the National University of Ireland, Galway and working at the Insight Centre for Data Analytics. I work under the supervision of Prof. Mathieu d'Aquin.
@@ -23,7 +23,7 @@ I first came to work at the Insight Centre as a Master Student Intern in order t
 My career ambition is to thrive as an Applied Research Scientist working on cutting-edge projects related to the areas I am most passionate about, which include but are not limited to: Recommendation Systems, Artificial Intelligence and Machine Learning. 
 
 
-# Research Interests
+## Research Interests
 
 * Recommendation Systems 
 * Reinforcement Learning 
@@ -34,20 +34,20 @@ My career ambition is to thrive as an Applied Research Scientist working on cutt
 * Data Analytics.
 
 
-# Academic Background
+## Academic Background
 
-## Doctorate Degree in Computer Science (expected 2019) 
+### Doctorate Degree in Computer Science (expected 2019) 
 The Insight Centre for Data Analytics
 National University of Ireland, Galway, Ireland
 
 **Research fields:** Recommendation Systems, Reinforcement Learning, Information Adaptation, Machine Learning.
 
-## Master’s Degree in Systems Engineering and Computing (April 2015)
+### Master’s Degree in Systems Engineering and Computing (April 2015)
 Pontificia Universidad Javeriana, Bogotá, Colombia
 
 **Emphasis on:** Business Intelligence, Machine Learning, Recommendation Systems, Information Adaptation, Distributed Systems, Innovation Management, Enterprise Architecture, Project Management, Mobile Computing, Multi-Agent Systems.
 
-## Systems Engineer (September 2011)
+### Systems Engineer (September 2011)
 Pontificia Universidad Javeriana, Bogotá, Colombia
 
 **Emphasis on:** Intelligent Systems, Software Construction, Information Systems and Management, Networks and Distributed Systems.
