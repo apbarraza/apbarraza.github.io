@@ -8,7 +8,7 @@ date: ''
 # Bio
 
 
-I am a PhD Research student in the field of computer science, studying at the National University of Ireland, Galway and working at the Insight Centre for Data Analytics. I work at the Unit for Information Mining and Retrieval (UIMR) under the supervision of Dr. Conor Hayes.
+I am a PhD Research student in the field of computer science, studying at the National University of Ireland, Galway and working at the Insight Centre for Data Analytics. I work under the supervision of Prof. Mathieu d'Aquin.
 
 
 My current research focuses on analyzing the role of exploration and exploitation in the area of Recommendation Systems. Specifically, I will aim to represent the Recommendation Systems as a reinforcement learning agent that is continuously obtaining information to refine its base knowledge.
