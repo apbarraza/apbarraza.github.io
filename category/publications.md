@@ -32,8 +32,12 @@ conference:
     - venue: "REVEAL"
       year: 2018
       text: "Barraza-Urbina, A., Koutrika G., D’Aquin M., Hayes, C. **BEARS: Towards an Evaluation Framework for Bandit-based Interactive Recommender Systems**. Workshop on Offline Evaluation for Recommender Systems (REVEAL'18), 12th ACM Conference on Recommender Systems. 
+      [[PDF](https://drive.google.com/file/d/1AxkofBHFsZ6EzcMvvwiL23DgVfeMnJV4/view)]
+      [[Slides](https://www.slideshare.net/apbarraza/bears-towards-an-evaluation-framework-for-banditbased-interactive-recommender-systems)]
+      [[Video](https://youtu.be/GIH_ArJ-ylk)]
+      [[Code](https://gitlab.insight-centre.org/andbar/bears)]
       
-      
+
       *Presented* at RecSys.
       "
     - venue: "RecSys Doctoral Symposium"
@@ -60,6 +64,7 @@ conference:
       year: 2015
       text: "Barraza-Urbina, A., Heitmann, B., Hayes, C., Carrillo, A. **XPLODIV: An Exploitation Exploration Aware Diversification Approach for Recommender Systems**. In Proceedings of the 28th International FLAIRS Conference 2015.
       [[PDF](http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewFile/10403/10292)]
+      [[Slides](https://www.slideshare.net/apbarraza/flairs28andrea-barraza-xplodiv)]
 
 
       *Presented* at FLAIRS.
@@ -68,6 +73,7 @@ conference:
       year: 2015
       text: "Barraza-Urbina, A., Hromic, H., Hulpus, I., Heitmann, B., Hayes, C., Cantle, N. **Using Social Media Data for Online Television Recommendation Services at RTÉ Ireland**. 2nd Workshop on Recommendation Systems for Television and Online Video, 9th ACM Conference on Recommender Systems, 20/09/2015.
       [[PDF](https://aran.library.nuigalway.ie/bitstream/handle/10379/5553/Using%20Social%20Media%20Data%20for%20Online%20Television%20%283%29.pdf?sequence=1&isAllowed=y)]
+      [[Slides](https://www.slideshare.net/apbarraza/using-social-media-data-for-online-television-recommendation-services-at-rt-ireland)]
 
 
       *Presented* at RecSys. 
@@ -122,7 +128,7 @@ tech_report:
 
 ---
 
-
+# Publications
 
 ## Journal
 

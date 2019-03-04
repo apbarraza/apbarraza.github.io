@@ -4,6 +4,8 @@ title: Projects
 sidebar_sort_order: 1
 ---
 
+# Projects
+
 ---
 ## My PhD Research
 ---
@@ -26,7 +28,7 @@ Recommendation Systems, Reinforcement Learning, Multi-Armed Bandits, Information
 **Date:** September 2017 – December 2017 (3 months)
 
 
-I worked towards developing a data-driven solution to generate policy recommendations that can improve a government’s score in [Doing Business](http://www.doingbusiness.org). 
+I worked towards developing a data-driven solution to generate policy recommendations that can improve a government’s score in [Doing Business](http://www.doingbusiness.org){:target="_blank"}. 
 
 **Keywords:**
 Markov Decision Process, Recommendation Systems, Human-in-the-Loop Machine Learning, Natural Language Processing.
@@ -52,7 +54,7 @@ RTÉ is the national television and radio broadcaster of Ireland. This project f
 
 **Date:** 2015
 
-I had the pleasure to co-supervise [Dulakshi Vihanga](https://www.linkedin.com/in/dulakshi-vihanga-730837104/) for her undergraduate dissertation
+I had the pleasure to co-supervise [Dulakshi Vihanga](https://www.linkedin.com/in/dulakshi-vihanga-730837104/){:target="_blank"} for her undergraduate dissertation
 tittled *Experience-based Personalized Diversiﬁcation of Recommendations*.
 
 Dulakshi received the Computing Project Award 2016 offered by the Sri Lanka Association for the Advancement of Science (SLAAS) as a result of this research project. The collaboration also resulted in two publications.
@@ -74,9 +76,9 @@ Recommender Systems have emerged to guide users in the task of efficiently brows
 
 
 
-The project's webpage can be found [here](http://pegasus.javeriana.edu.co/~PI131-01-XploDiv/).
+The project's webpage can be found [here](http://pegasus.javeriana.edu.co/~PI131-01-XploDiv/){:target="_blank"}.
 
-My dissertation can be found [here](http://pegasus.javeriana.edu.co/~PI131-01-XploDiv/entregables/[TGAndreaBarraza]-Memorias%20Integrada.pdf) and [here](https://aran.library.nuigalway.ie/handle/10379/5081).
+My dissertation can be found [here](http://pegasus.javeriana.edu.co/~PI131-01-XploDiv/entregables/[TGAndreaBarraza]-Memorias%20Integrada.pdf){:target="_blank"} and [here](https://aran.library.nuigalway.ie/handle/10379/5081){:target="_blank"}.
 
 
 **Keywords:**
@@ -126,8 +128,8 @@ Develop a Mobile Solution for the Multi-Agent BESA Framework by creating an inte
 
 Recommender Systems have emerged to help support, augment and systematize the everyday natural social process of creating and sharing recommendations by developing tools that can be used to quickly identify interesting products, and therefore, reduce a search space of alternatives. This project aims to construct a mechanism, under a generic approach, that can offer services to Information Retrieval applications so these may offer product recommendations that consider several Adaptation/Personalization dimensions (e.g., user dimension, context, among others). To begin with, a list of key design decisions for any type of Recommendation System solution that can also consider Adaptation/Personalization criteria is specified. Based on this list, the *General Vizier Model* was designed to support developers in the construction of any type of Multidimensional Generic recommendation solution. Finally, based on previous contributions, the *Multi-Agent Vizier Recommendation Framework (Vizier)* is proposed; on one hand, to assist those entities that currently develop Information Retrieval applications and wish to add recommendations to their services (e.g., E-Commerce applications); on the other hand, in order to offer a solution that hopefully provides better adapted/personalized results than current solutions by considering the multidimensionality of users, items and context. In order to validate *Vizier*, the initial *Vizier* prototype and initial *ZoundBeat* prototype were implemented.
 
-The project's webpage can be found [here](http://pegasus.javeriana.edu.co/~CIS1010IS01/).
+The project's webpage can be found [here](http://pegasus.javeriana.edu.co/~CIS1010IS01/){:target="_blank"}.
 
-My dissertation can be found [here](http://pegasus.javeriana.edu.co/~CIS1010IS01/Documentos/memorias_ingles/Vizier_Memories_v3.2.pdf).
+My dissertation can be found [here](http://pegasus.javeriana.edu.co/~CIS1010IS01/Documentos/memorias_ingles/Vizier_Memories_v3.2.pdf){:target="_blank"}.
 
 
