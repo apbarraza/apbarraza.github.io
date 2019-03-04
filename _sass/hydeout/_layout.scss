@@ -236,6 +236,15 @@ body {
 #sidebar .site-title {
   color: $sidebar-title-color;
   a { color: inherit; }
+  
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    -o-user-select:none;
+    user-select:none;
+    cursor: default;
+
 }
 #sidebar nav {
   display: flex;
