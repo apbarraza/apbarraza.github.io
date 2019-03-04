@@ -115,7 +115,3 @@ My career ambition is to thrive as an Applied Research Scientist working on cutt
     </div>
     
 </div>
-
-
-
-
