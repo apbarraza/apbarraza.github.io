@@ -8,19 +8,15 @@ date: ''
 # About Me
 ---
 
-Hello! My name is Andrea Barraza and I am a PhD Research student in the field of computer science, studying at the National University of Ireland, Galway and working at the Insight Centre for Data Analytics. I work under the supervision of Prof. Mathieu d'Aquin.
+Hello! My name is **[Andrea Barraza](http://apbarraza.com)**. I am a PhD Research student in the field of computer science, studying at the [National University of Ireland, Galway](http://www.nuigalway.ie) and working at the [Insight Centre for Data Analytics](https://www.insight-centre.org). I work under the supervision of [Prof. Mathieu d'Aquin](http://mdaquin.net/).
 
 
-My current research focuses on analyzing the role of exploration and exploitation in the area of Recommendation Systems. Specifically, I will aim to represent the Recommendation Systems as a reinforcement learning agent that is continuously obtaining information to refine its base knowledge.
+My current research aims to adapt techniques and theory from the Reinforcement Learning field to explicitly control the trade-off between exploration and exploitation found in Recommendation Systems.
+
+I hold a Bachelor in Systems Engineering and a Master in Computer Science from the [Pontificia Universidad Javeriana, Bogotá, Colombia](https://www.javeriana.edu.co).
 
 
-I hold a Bachelor in Systems Engineering and a Master in Computer Science from the Pontificia Universidad Javeriana, Bogotá, Colombia.
-
-
-I first came to work at the Insight Centre as a Master Student Intern in order to carry out my master thesis as a collaborative effort between the Pontificia Universidad Javeriana and the Insight Centre. In my master thesis, I worked on the topic of Diversity for Recommender Systems.
-
-
-My career ambition is to thrive as an Applied Research Scientist working on cutting-edge projects related to the areas I am most passionate about, which include but are not limited to: Recommendation Systems, Artificial Intelligence and Machine Learning. 
+I first came to work at the Insight Centre as a Master Student Intern in order to carry out my master thesis as a collaborative effort between the Pontificia Universidad Javeriana and the Insight Centre. In my [master thesis](https://aran.library.nuigalway.ie/bitstream/handle/10379/5081/%5bAndreaBarraza_-_2015%5d_Technical_Report_-_XploDiv.pdf?sequence=1&isAllowed=y), I worked on the topic of Diversity for Recommender Systems.
 
 <br>
 <br>
@@ -29,6 +25,8 @@ My career ambition is to thrive as an Applied Research Scientist working on cutt
 
 ## Research Interests
 ---
+
+My career ambition is to thrive as an Applied Research Scientist working on cutting-edge projects related to the areas I am most passionate about, which include but are not limited to: 
 
 <div style="text-align:left">
   <a href="#" class="mytag" style="background-color: #0F4C5C; background: #0F4C5C">Recommendation Systems </a>

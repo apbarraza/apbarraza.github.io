@@ -26,10 +26,10 @@ Recommendation Systems, Reinforcement Learning, Multi-Armed Bandits, Information
 **Date:** September 2017 – December 2017 (3 months)
 
 
-Develop a data-driven solution to generate policy recommendations that can improve a government’s [Doing Business scores](http://www.doingbusiness.org). • Coordination of collaborative work in an interdisciplinary team.
+I worked towards developing a data-driven solution to generate policy recommendations that can improve a government’s score in [Doing Business](http://www.doingbusiness.org). 
 
 **Keywords:**
-Markov Decision Process, Recommendation Systems, Human-in-the-Loop Machine Learning, NLP.
+Markov Decision Process, Recommendation Systems, Human-in-the-Loop Machine Learning, Natural Language Processing.
 
 <br>
 <br>
@@ -41,6 +41,22 @@ Markov Decision Process, Recommendation Systems, Human-in-the-Loop Machine Learn
 **Date:** January 2015 – August 2015 (8 months) 
 
 RTÉ is the national television and radio broadcaster of Ireland. This project focused on building solutions for adapted content navigation and social community awareness to enrich the RTÉ Player service. 
+
+<br>
+<br>
+
+
+---
+## Supervision of Undergraduate Dissertation
+---
+
+**Date:** 2015
+
+I had the pleasure to co-supervise [Dulakshi Vihanga](https://www.linkedin.com/in/dulakshi-vihanga-730837104/) for her undergraduate dissertation
+tittled *Experience-based Personalized Diversiﬁcation of Recommendations*.
+
+Dulakshi received the Computing Project Award 2016 offered by the Sri Lanka Association for the Advancement of Science (SLAAS) as a result of this research project. The collaboration also resulted in two publications.
+
 
 <br>
 <br>
